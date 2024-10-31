@@ -5,7 +5,16 @@ Comandos à serem executados previamente:
 
 ``npm install``
 
-
 Executar o código:
 
 ``npx nodemon index.js``
+
+## todolist 
+
+Comandos à serem executados previamente: 
+
+``npm install``
+
+Executar o código:
+
+``npm start``
